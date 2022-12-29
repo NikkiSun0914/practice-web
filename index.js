@@ -203,7 +203,6 @@ const riddles = [
   },
 ];
 
-// Just a little helper function
 function rn(len) {
   return Math.floor(Math.random() * len);
 }
